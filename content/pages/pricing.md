@@ -12,4 +12,4 @@ Many of my gigs have ranged from $300-$500, based on the time commitment and the
 
 Several of my gigs, especially single day events, have been free of charge if they support something I'm passionate about.
 
-Thus far, I've not turned a profit. I've invested all of my modest fees into the purchase of and maintenance of equipment used in this hobby. I'm not doing this to make money, I'm doing it to help out and to have an excuse to have some really cool gear.
+Thus far, I've not turned a profit. I've invested all of my modest fees into the purchase and maintenance of equipment used in this hobby. I'm not doing this to make money, I'm doing it to help out and to have an excuse to have some really cool gear.

@@ -12,6 +12,7 @@ Here's what I currently am equipped to run sound for:
 * Live-mixing performers using group-provided beltpack or handheld microphones
 * With a live orchestra or backing tracks
 * Designing and performing sound effects/cues
+  
 
 ## Small concerts/gigs
 * Live-mixing performers with limited wired microphones
@@ -28,6 +29,7 @@ Here's what I currently am equipped to run sound for:
 * With a provided playlist/tracklist
 * Seriously, I'm not a good DJ
 * You really don't want to hear what I want to play
+* I can probably be convinced to run karaoke using [karafun](https://www.karafun.com)
 
 ## Pretty much anything else you can think of
 * Provided it requires similar equipment and time commitment
