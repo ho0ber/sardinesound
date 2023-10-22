@@ -5,7 +5,8 @@
     --coder-title: #8f3bae;
     --coder-body: #99b8c0;
     --coder-link: #00d0ff;
-    --coder-visited: #825294;
+    --coder-visited: #00d0ff;
+    /* --coder-visited: #825294; */
     --coder-borders: #009ec2;
     --coder-hover: #009ec2;
     --coder-active: #009ec2;
