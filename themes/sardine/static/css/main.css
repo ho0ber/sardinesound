@@ -65,6 +65,8 @@ main {
     /* height: 512px; */
     /* width: 64px; */
     vertical-align: bottom;
+    max-width: 95%;
+    height: auto;
 }
 
 .cover {
