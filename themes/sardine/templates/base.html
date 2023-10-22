@@ -45,6 +45,7 @@
           {% for title, link in MENUITEMS %}
               <a href="{{ link }}">{{ title }}</a>
           {% endfor %}
+          • 
           {% if DISPLAY_PAGES_ON_MENU %}
             {% for p in pages %}
               <span{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
