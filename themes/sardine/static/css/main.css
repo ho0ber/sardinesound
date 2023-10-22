@@ -46,8 +46,7 @@ main {
 }
 
 .headshot {
-    max-width: 256px;
-    width: 40%;
+    max-width: min(40%, 256px);
     height: auto;
 }
 
