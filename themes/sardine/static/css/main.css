@@ -44,6 +44,11 @@ main {
     max-width: 40%;
 }
 
+.headshot {
+    max-width: 256px;
+    height: auto;
+}
+
 .center {
     text-align: center;
 }
@@ -67,6 +72,10 @@ main {
     vertical-align: bottom;
     max-width: 95%;
     height: auto;
+}
+
+.float-right {
+    float: right;
 }
 
 .cover {
