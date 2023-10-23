@@ -12,7 +12,7 @@ This document serves as a guide and list of requirements for engaging Sardine So
 * Contact information for the director and music director must be provided
 * A rough orchestra type/makeup must be provided
 * A preliminary venue (even if not yet booked/confirmed) must be provided
-* A fee must be agreed upon for the show. If the show is operated by a nonprofit community theater, the budget for the show must be approved by the board of directors at a board meeting.
+* A fee must be agreed upon for the show. If the show is operated by a nonprofit community theater group, the budget for the show must be approved by the board of directors at a board meeting.
 * The director must agree to spend at least one rehearsal in the venue with a technical focus (a cue-to-cue, generally) before final dress rehearsals
 
 # Timeline
