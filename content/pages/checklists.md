@@ -8,7 +8,7 @@ One of the biggest challenges of running sound for community theater groups and 
 
 ### Community Theater
 * [Live Orchestra Show Checklist](./live-orchestra-show-checklist.html)
-* Backing Tracks Show Checklist
+* [Backing Tracks Show Checklist](./backing-track-show-checklist.html)
 
 ### Talks, lectures, panels, parties, and gatherings
-* PA Checklist
+* [PA Checklist](./pa-checklist.html)
