@@ -10,7 +10,7 @@
     --coder-borders: #009ec2;
     --coder-hover: #009ec2;
     --coder-active: #009ec2;
-    --coder-headers: #8f3bae;
+    --coder-headers: #cf68f5; /* 8f3bae is too dark */
     --coder-time: #6df1d8;
     --coder-address: #009ec2;
     --coder-category: #b8aec8;
