@@ -11,7 +11,7 @@ This checklist applies to non-theater gigs, including small concerts, speakers, 
 
 ## Booking Prerequisites
 * Event dates must be confirmed to ensure availability
-* Contact information for the client or coordinator
+* Contact information for the client or coordinator must be provided
 * A preliminary venue (even if not yet booked/confirmed) must be provided
 * A fee and payment schedule must be agreed upon for the event
 
