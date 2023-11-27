@@ -18,6 +18,7 @@ This checklist applies to non-theater gigs, including small concerts, speakers, 
 # Timeline
 ## 1 Month Before Event
 * A venue must be confirmed. If we haven't worked in this venue before, depending on the complexity of the event, we *may* need a walk-through of the venue to understand the challenges and offerings of the space.
+* Access to power, especially for outdoor venues, must be confirmed. At least one 15 amp outlet (on a dedicated or unused circuit) within 50 feet is required.
 * Load-in and load-out parking information must be provided
 * A schedule including load-in, load-out, and timing of sound needs must be provided
 * If the event spans multiple days, a plan for keeping equipment safe in the venue between rehearsals and shows must be coordinated
