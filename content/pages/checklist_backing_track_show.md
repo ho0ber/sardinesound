@@ -15,6 +15,7 @@ This checklist applies to theatrical shows with no live accompaniment, only back
 * A preliminary venue (even if not yet booked/confirmed) must be provided
 * A fee and payment schedule must be agreed upon for the show. If the show is operated by a nonprofit community theater group, the budget for the show must be approved by the board of directors at a board meeting.
 * The director must agree to spend at least one rehearsal in the venue with a technical focus (a cue-to-cue, generally) before final dress rehearsals
+* The director must agree to the timeline below
 
 # Timeline
 ## 2 Months Before Show
