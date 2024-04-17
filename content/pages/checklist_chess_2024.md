@@ -5,11 +5,9 @@ Category: General
 Summary: 
 
 ## What is this?
-This document serves as a guide and list of requirements for engaging Sardine Sound for a show. It is a work in progress, but the goal of the document is to give a director/producer everything they need to know to run a successful show with us.
+This document serves as a guide and list of requirements for engaging Sardine Sound for a show. The goal of the document is to give a director/producer everything they need to know to run a successful show with us.
 
-This checklist applies to theatrical shows with an orchestra or band as live accompaniment.
-
-
+***The Booking Prerequisites must be met before you can consider us "booked" for your show.***
 
 ## Booking Prerequisites
 |  | Item | Note |  
@@ -23,16 +21,14 @@ This checklist applies to theatrical shows with an orchestra or band as live acc
 | 🔳 | The directors must agree to the timeline below |  |
 
 # Timeline
-## 2 Months Before Show
-
+## 2 Months Before Show - April 14th 2024
 |  | Item | Note |  
 |---|---|---|  
 | ✅ | A venue must be confirmed. If we haven't worked in this venue before, we will need a walk-through of the venue to understand the challenges and offerings of the space. | Wheaton |
 | ✅ | Load-in and load-out parking information must be provided | |
 | 🔳 | If sound effects/cues are required for the show, a preliminary list of those cues/needs should be provided along with a copy of the script. | |
 
-## 1 Month Before Show
-
+## 1 Month Before Show - May 14th 2024
 |  | Item | Note |  
 |---|---|---|  
 | 🔳 | A full schedule including load-in, cue-to-cue, dress rehearsal, show, and strike dates and times (including end times) must be provided | |
