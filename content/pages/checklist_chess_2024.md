@@ -9,23 +9,19 @@ This document serves as a guide and list of requirements for engaging Sardine So
 
 This checklist applies to theatrical shows with an orchestra or band as live accompaniment.
 
-|  | Item | Note |  
-|---|---|---|  
-| ✅ | Value 2 | Value 3 |  
-| ✅ | Value 5 | Value 6 |  
-| ✅ | Value 8 | Value 9 |
+
 
 ## Booking Prerequisites
-* ✅ Show count and dates must be confirmed to ensure availability
- **- (Jun 14 & 15 at 7:30 PM)**
-* ✅ Contact information for the directors and music director must be provided
-* ✅ A rough orchestra type/makeup must be provided
-* ✅ A preliminary venue (even if not yet booked/confirmed) must be provided
- **- (Wheaton)**
-* ✅ A fee and payment schedule must be agreed upon for the show. If the show is operated by a nonprofit community theater group, the budget for the show must be approved by the board of directors at a board meeting.
- **- ($0 fee, approved in Feb board meeting)**
-* 🔳 The directors must agree to spend at least one rehearsal in the venue with a technical focus (a cue-to-cue, generally) before final dress rehearsals
-* 🔳 The directors must agree to the timeline below
+
+|  | Item | Note |  
+|---|---|---|  
+| ✅ | Show count and dates must be confirmed to ensure availability | Jun 14 & 15 at 7:30 PM |  
+| ✅ | Contact information for the directors and music director must be provided |  |  
+| ✅ | A rough orchestra type/makeup must be provided |  |
+| ✅ | A preliminary venue (even if not yet booked/confirmed) must be provided | Wheaton |
+| ✅ | A fee and payment schedule must be agreed upon for the show. If the show is operated by a nonprofit community theater group, the budget for the show must be approved by the board of directors at a board meeting. |  $0 fee, approved in Feb board meeting |
+| 🔳 | The directors must agree to spend at least one rehearsal in the venue with a technical focus (a cue-to-cue, generally) before final dress rehearsals |  |
+| 🔳 | The directors must agree to the timeline below |  |
 
 # Timeline
 ## 2 Months Before Show
