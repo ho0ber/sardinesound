@@ -196,10 +196,7 @@ table {
     border: 1px solid;
 }
 
-td {
-    border: 1px solid;
-}
 
 tr:nth-of-type(odd) {
-    background-color:#333;
+    background-color:#111;
 }
