@@ -191,3 +191,15 @@ code {
     font-size: 18px;
     color: var(--coder-emphasis);
 }
+
+table {
+    border: 1px solid;
+}
+
+td {
+    border: 1px solid;
+}
+
+tr:nth-of-type(odd) {
+    background-color:#333;
+}
