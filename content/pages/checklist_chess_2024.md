@@ -25,14 +25,19 @@ This checklist applies to theatrical shows with an orchestra or band as live acc
 
 # Timeline
 ## 2 Months Before Show
-* ✅ A venue must be confirmed. If we haven't worked in this venue before, we will need a walk-through of the venue to understand the challenges and offerings of the space.
- **- (Wheaton)**
-* ✅ Load-in and load-out parking information must be provided
-* 🔳 If sound effects/cues are required for the show, a preliminary list of those cues/needs should be provided along with a copy of the script.
+
+|  | Item | Note |  
+|---|---|---|  
+| ✅ | A venue must be confirmed. If we haven't worked in this venue before, we will need a walk-through of the venue to understand the challenges and offerings of the space. | Wheaton |
+| ✅ | Load-in and load-out parking information must be provided | |
+| 🔳 | If sound effects/cues are required for the show, a preliminary list of those cues/needs should be provided along with a copy of the script. | |
 
 ## 1 Month Before Show
-* 🔳 A full schedule including load-in, cue-to-cue, dress rehearsal, show, and strike dates and times (including end times) must be provided
-* 🔳 A plan for keeping equipment safe in the venue between rehearsals and shows must be coordinated
-* 🔳 A list of all parts/performers who are being mic'd must be provided
-* 🔳 A cue sheet listing all sound effects, and entrances/exits of mic'd performers must be provided
-* 🔳 A microphone and monitor plan for the orchestra must be coordinated with the music director if they want to have any sort of additional instrument micing or monitors to hear performers
+
+|  | Item | Note |  
+|---|---|---|  
+| 🔳 | A full schedule including load-in, cue-to-cue, dress rehearsal, show, and strike dates and times (including end times) must be provided | |
+| 🔳 | A plan for keeping equipment safe in the venue between rehearsals and shows must be coordinated | |
+| 🔳 | A list of all parts/performers who are being mic'd must be provided | |
+| 🔳 | A cue sheet listing all sound effects, and entrances/exits of mic'd performers must be provided | |
+| 🔳 | A microphone and monitor plan for the orchestra must be coordinated with the music director if they want to have any sort of additional instrument micing or monitors to hear performers | |
