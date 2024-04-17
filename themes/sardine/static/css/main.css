@@ -196,7 +196,9 @@ table, tr, td {
 /*     border-collapse: collapse; */
 /*     border: 1px solid; */
 }
-
+td {
+   padding: 4px;
+}
 tr:nth-of-type(even) {
     background-color:#222;
 }
