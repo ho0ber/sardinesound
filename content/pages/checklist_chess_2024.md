@@ -9,6 +9,12 @@ This document serves as a guide and list of requirements for engaging Sardine So
 
 This checklist applies to theatrical shows with an orchestra or band as live accompaniment.
 
+|  | Item | Note |  
+|---|---|---|  
+| ✅ | Value 2 | Value 3 |  
+| ✅ | Value 5 | Value 6 |  
+| ✅ | Value 8 | Value 9 |
+
 ## Booking Prerequisites
 * ✅ Show count and dates must be confirmed to ensure availability
  **- (Jun 14 & 15 at 7:30 PM)**
