@@ -192,7 +192,8 @@ code {
     color: var(--coder-emphasis);
 }
 
-table {
+table, tr, td {
+    border-collapse: collapse;
     border: 1px solid;
 }
 
